@@ -1,0 +1,11 @@
+body {
+
+    color: lightsalmon;
+}
+
+.jumbotron {
+    background-image: url("../../Images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
